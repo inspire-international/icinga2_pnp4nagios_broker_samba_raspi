@@ -22,6 +22,7 @@ Provide you RASPBIAN JESSIE (2015-11-21) image which includes Icinga2, pnp4nagio
 
 # Icinga test drive
 1) Open your browser and access to http://localhost or replace localhost string with the IP address assigned to your Raspberry Pi. You will see the top page like this.
+
 ![image](http://www.inspire-intl.com/images/miezou_top.jpg)
 
 
@@ -30,6 +31,7 @@ Provide you RASPBIAN JESSIE (2015-11-21) image which includes Icinga2, pnp4nagio
 
 # File server
 Samba is also included in this image.  So please type in UNC (Universal Naming Convention) on your explore and enter __pi__ for Username and __raspberry__ for password.
+
 ![image](http://www.inspire-intl.com/images/miezou_samba.jpg)
 
 
