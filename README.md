@@ -1,9 +1,9 @@
 # Icinga2 pnp4nagios &amp; Naming Server plugins coming with samba on Raspberry Pi 2 Model B
 Provide you RASPBIAN JESSIE (2015-11-21) image which includes Icinga2, pnp4nagios and Naming server plugins, and samba.
 
-![Naming server plugin for Icinga in action](http://www.inspire-intl.com/images/miezou_overview.jpg)
+![Miezou Overview](http://www.inspire-intl.com/images/miezou_overview.jpg)
 
-[Asset tracking & Motoring solution](http://www.inspire-intl.com/product/nextra/doc/monitoring_en.pdf)
+[Asset maintenance & management platform](http://www.inspire-intl.com/product/nextra/doc/miezou_en.pdf)
 
 
 # Prerequisite
