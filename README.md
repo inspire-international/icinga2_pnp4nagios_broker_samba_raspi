@@ -12,7 +12,7 @@ Provide you RASPBIAN JESSIE (2015-11-21) image which includes Icinga2, pnp4nagio
 - MicroSD card => 8GiB
 
 # Preparation
-1) [Click here to download the image in zip format and unzip it on your PC.](https://drive.google.com/file/d/0BzoHG_c1WjF5R2JFaFZDWXhzUE0)
+1) [Click here to download the image in zip format and unzip it on your PC.](https://drive.google.com/file/d/0BzoHG_c1WjF5Sk90dXE3R2xfQ1U)
 
 2) [Use Win32DiskImager burning the image into your microSD card.](http://www.raspberry-projects.com/pi/pi-operating-systems/win32diskimager)
 
