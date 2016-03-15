@@ -12,7 +12,7 @@ Provide you RASPBIAN JESSIE (2015-11-21) image which includes Icinga2, pnp4nagio
 - MicroSD card => 8GiB
 
 # Preparation
-1) [Click here to download the image in zip format and unzip it on your PC.](https://drive.google.com/file/d/0BzoHG_c1WjF5Sk90dXE3R2xfQ1U)
+1) [Click here to download the image in zip format and unzip it on your PC.](https://drive.google.com/open?id=0BzoHG_c1WjF5dXpPWGstNWZqUUU)
 
 2) [Use Win32DiskImager burning the image into your microSD card.](http://www.raspberry-projects.com/pi/pi-operating-systems/win32diskimager)
 
@@ -23,7 +23,7 @@ Provide you RASPBIAN JESSIE (2015-11-21) image which includes Icinga2, pnp4nagio
 # Icinga test drive
 1) Open your browser and access to http://localhost or replace localhost string with the IP address assigned to your Raspberry Pi. You will see the top page like this.
 
-![image](http://www.inspire-intl.com/images/miezou_top.jpg)
+![image](http://www.inspire-intl.com/images/gabatto_top.jpg)
 
 
 2) Click Performance Monitoring for Icingaweb2 and enter __icingaadmin__ for Username and __icinga__ for Password. Click Service Controller in order to add network services you want to monitor.
@@ -34,6 +34,15 @@ Samba is also included in this image.  So please type in UNC (Universal Naming C
 
 ![image](http://www.inspire-intl.com/images/miezou_samba.jpg)
 
+# Histrory
+2016.03.15:
+```sh
+Kernel 4.1.18-v7
+Available current over USB to 1.2A
+meld/smbclient/xrdp installed
+RAM drive for temporarily storage
+/cleanuplog.sh
+```
 ---
 
 [Nextra Naming Server](http://inspire-intl.com/product/product_nextra.html#icinga)
