@@ -12,7 +12,7 @@ Provide you RASPBIAN JESSIE (2015-11-21) image which includes Icinga2, pnp4nagio
 - MicroSD card => 8GiB
 
 # Preparation
-1) [Click here to download the image in zip format and unzip it on your PC.](https://drive.google.com/open?id=0BzoHG_c1WjF5dXpPWGstNWZqUUU)
+1) [Click here to download the image in zip format and unzip it on your PC.](https://drive.google.com/file/d/0BzoHG_c1WjF5NThmV1dRSlJBcEU)
 
 2) [Use Win32DiskImager burning the image into your microSD card.](http://www.raspberry-projects.com/pi/pi-operating-systems/win32diskimager)
 
@@ -35,7 +35,12 @@ Samba is also included in this image.  So please type in UNC (Universal Naming C
 ![image](http://www.inspire-intl.com/images/miezou_samba.jpg)
 
 # Histrory
-2016.03.15:
+2016.03.27
+```sh
+Kernel 4.1.19-v7
+```
+
+2016.03.15
 ```sh
 Kernel 4.1.18-v7
 Available current over USB to 1.2A
