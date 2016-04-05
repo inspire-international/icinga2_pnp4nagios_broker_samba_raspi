@@ -1,23 +1,22 @@
-# Icinga2 pnp4nagios &amp; Naming Server plugins coming with samba on Raspberry Pi 2 Model B
-Provide you RASPBIAN JESSIE (2015-11-21) image which includes Icinga2, pnp4nagios and Naming server plugins, and samba.
+# Icinga2 pnp4nagios &amp; Naming Server plugins coming with samba on Raspbian
+Provide you RASPBIAN JESSIE image which includes Icinga2, pnp4nagios and Naming server plugins and samba.
 
-![Miezou Overview](http://www.inspire-intl.com/images/miezou_overview.jpg)
+![Gabatto Overview](http://www.inspire-intl.com/images/miezou_overview.jpg)
 
-[Asset maintenance & management platform](http://www.inspire-intl.com/product/nextra/doc/miezou_en.pdf)
+[Asset preservation platform](http://www.gabatto.com/docs/gabatto_intro_en.pdf)
 
 
 # Prerequisite
-- Raspberry Pi 2 Model B
+- Raspberry Pi 2/3 Model B
 
 - MicroSD card => 8GiB
 
 # Preparation
-1) [Click here to download the image in zip format and unzip it on your PC.](https://drive.google.com/file/d/0BzoHG_c1WjF5NThmV1dRSlJBcEU)
+1) [Click here to download the image in zip format and unzip it on your PC.](https://drive.google.com/open?id=0BzoHG_c1WjF5djN1NTNRWDVvWlE)
 
 2) [Use Win32DiskImager burning the image into your microSD card.](http://www.raspberry-projects.com/pi/pi-operating-systems/win32diskimager)
 
 3) Insert your microSD to your Raspberry Pi slot and boot it.
-
 
 
 # Icinga test drive
@@ -34,7 +33,14 @@ Samba is also included in this image.  So please type in UNC (Universal Naming C
 
 ![image](http://www.inspire-intl.com/images/miezou_samba.jpg)
 
+
 # Histrory
+2016.04.05
+```sh
+Kernel 4.1.20-v7+ #867
+Removed libreoffice and wolfram-engine
+```
+
 2016.03.27
 ```sh
 Kernel 4.1.19-v7
