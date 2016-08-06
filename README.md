@@ -1,9 +1,8 @@
 # Icinga2 pnp4nagios &amp; Naming Server plugins coming with samba on Raspbian
 Provide you RASPBIAN JESSIE image which includes Icinga2, pnp4nagios and Naming server plugins, and samba.
 
-![Gabatto Overview](http://www.inspire-intl.com/images/miezou_overview.jpg)
+![Gabatto Overview](http://www.gabatto.com/blank-5)
 
-[Asset preservation platform](http://www.gabatto.com/docs/gabatto_intro_en.pdf)
 
 
 # Prerequisite
