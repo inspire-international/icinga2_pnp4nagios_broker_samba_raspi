@@ -1,9 +1,9 @@
 # Icinga2 pnp4nagios &amp; Naming Server plugins coming with samba on Raspbian
 Provide you RASPBIAN JESSIE image which includes Icinga2, pnp4nagios and Naming server plugins, and samba.
 
-![Gabatto Overview](http://www.gabatto.com/blank-5)
-
 [Digital Asset Preservation Platform](http://www.gabatto.com)
+
+[Nextra Naming Server](http://inspire-intl.com/product/product_nextra.html#icinga)
 
 
 # Prerequisite
@@ -12,7 +12,7 @@ Provide you RASPBIAN JESSIE image which includes Icinga2, pnp4nagios and Naming 
 - MicroSD card => 8GiB
 
 # Preparation
-1) [Click here to download the image in zip format and unzip it on your PC.](https://drive.google.com/open?id=0BzoHG_c1WjF5cmJXbTlxaEc3X2M)
+1) [Click here to download the image in zip format and unzip it on your PC.](https://drive.google.com/open?id=0BzoHG_c1WjF5SjEwNFBXdjNXeGs)
 
 2) [Use Win32DiskImager burning the image into your microSD card.](http://www.raspberry-projects.com/pi/pi-operating-systems/win32diskimager)
 
@@ -35,6 +35,11 @@ Samba is also included in this image.  So please type in UNC (Universal Naming C
 
 
 # Histrory
+2016.08.01
+```sh
+Kernel 4.4.16-v7+ #899
+```
+
 2016.05.24
 ```sh
 Kernel 4.4.11-v7+ #888
@@ -60,7 +65,5 @@ RAM drive for temporarily storage
 /cleanuplog.sh
 ```
 ---
-
-[Nextra Naming Server](http://inspire-intl.com/product/product_nextra.html#icinga)
 
 #### Copyright (C) 1998 - 2016  Inspire International Inc.
